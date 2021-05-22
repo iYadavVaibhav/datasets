@@ -2,6 +2,6 @@
 
 This repository contains open datasets that can be used for data analysis.
 
-## Iris
+Social Network Ads
+- For logistic regression
 
-## MT Cars
